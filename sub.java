@@ -5,4 +5,11 @@ public class sub {
         c=a-b;
         System.out.println(c);
     }
+    sub()
+    {
+    }
+    sub(int a)
+    {
+        int b=100;
+    }
 }
